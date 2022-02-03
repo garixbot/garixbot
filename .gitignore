@@ -15,4 +15,3 @@ static/image/logo*
 static/image/chart*
 *extension*
 !static/image/extension
-static/image/extension/*
